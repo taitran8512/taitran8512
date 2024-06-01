@@ -2,22 +2,12 @@
 <p align="center"><ins>Nick name:</ins> PhapPurple (OriNeko)</p>
 
 <p align="center">
-  __________
-  <a href="https://facebook.com/PhapPurple">
-    <img src="https://github.com/huynhphap100/huynhphap100/blob/main/images/fb.png" alt="PhapPurple" width="100px"/>
-  </a>
-  __________
 </p>
-
 <h2 align="center">My Team</h2>
 <div align="center">
   __________
-  <a href="https://github.com/Vanderis-Team">
+  <a href="https://github.com/taitran8512">
     <img src="https://avatars.githubusercontent.com/u/135496595?s=400&u=430af9d0b49b57a2d5458184403b31080d7c430e&v=4" alt="Vanderis" width="100px"/>
-  </a>
-  __________
-  <a href="https://discord.gg/nhBsfaUpAD">
-    <img src="https://github.com/huynhphap100/huynhphap100/blob/main/images/discord.png" alt="VanderisDiscord" width="100px"/>
   </a>
   __________
 </div>
@@ -25,7 +15,6 @@
 <h2 align="center">My Main Language</h2>
 <div align="center">
   ______
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP" width="70px" height="50px"/>
   <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="HTML5" width="130px" height="50px"/>
   <img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-sql-file-document-icon-png-image_4179445.jpg" alt="SQL" width="50px" height="50px"/>
