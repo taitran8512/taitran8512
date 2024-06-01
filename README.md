@@ -1,10 +1,9 @@
-<h1 align="center">About Me</h1>
-<p align="center"><ins>Nick name:</ins> PhapPurple (OriNeko)</p>
+
+<p align="center"><ins>Họ tên:</ins> Tran Huu Tai</p>
 
 <p align="center">
 </p>
-
-<h2 align="center">My Main Language</h2>
+<h2 align="center">Ngôn ngữ lập trình</h2>
 <div align="center">
   ______
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP" width="70px" height="50px"/>
